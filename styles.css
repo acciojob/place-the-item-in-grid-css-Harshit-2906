@@ -1,16 +1,16 @@
 
 /* Your CSS Code here. */
 .holder {
-    display: flex;
+    display: grid;
 }
 
 .holder {
-    display: flex;
+    display: grid;
     justify-content: space-evenly;
 }
 
 .holder {
-    display: flex;
+    display: grid;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
