@@ -4,4 +4,6 @@
     display: grid;
     justify-content: space-evenly;
     flex-wrap: wrap;
+	grid-template-columns:100px, 100px;
+	
 }
